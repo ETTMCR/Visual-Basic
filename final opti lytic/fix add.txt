@@ -1,0 +1,2 @@
+timing sec  Label1.Caption =  Abs(DateDiff("s", Now, time_start))
+statistic most vi most cell

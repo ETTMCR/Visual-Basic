@@ -1,0 +1,32 @@
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\bin\Debug\my game.exe
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\bin\Debug\my game.pdb
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\bin\Debug\my game.xml
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\obj\x86\Debug\my game.vbproj.GenerateResource.Cache
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\obj\x86\Debug\my game.exe
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\obj\x86\Debug\my game.xml
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\obj\x86\Debug\my game.pdb
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\bin\Debug\my game.exe.manifest
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\bin\Debug\my game.application
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\obj\x86\Debug\my game.exe.manifest
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\obj\x86\Debug\my game.application
+C:\Users\1\Desktop\ET\MINE\my game\my game\my game\bin\Debug\my game.exe.config
+C:\Users\1\Desktop\ET\MINE\תכנות\my game\my game\my game\bin\Debug\my game.exe.config
+C:\Users\1\Desktop\ET\MINE\תכנות\my game\my game\my game\obj\x86\Debug\my game.exe
+C:\Users\1\Desktop\ET\MINE\תכנות\my game\my game\my game\obj\x86\Debug\my game.xml
+C:\Users\1\Desktop\ET\MINE\תכנות\my game\my game\my game\obj\x86\Debug\my game.pdb
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\bin\Debug\my game.exe.config
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\obj\x86\Debug\my game.exe
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\obj\x86\Debug\my game.xml
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\obj\x86\Debug\my game.pdb
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\bin\Debug\my game.exe.manifest
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\bin\Debug\my game.application
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\bin\Debug\my game.exe
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\bin\Debug\my game.pdb
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\bin\Debug\my game.xml
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\obj\x86\Debug\my game.vbproj.GenerateResource.Cache
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\obj\x86\Debug\my game.exe.manifest
+D:\ET\MINE\תיכנות\VB6\my game\my game\my game\obj\x86\Debug\my game.application

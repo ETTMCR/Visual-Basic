@@ -1,0 +1,62 @@
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\bin\ControlArraySample.exe
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\bin\ControlArraySample.pdb
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\bin\ControlArraySample.xml
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\obj\Debug\junkVB.Main.resources
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\obj\Debug\ControlArraySample.exe
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\obj\Debug\ControlArraySample.xml
+C:\Documents and Settings\Administrator\Desktop\Control_Arrays_in_VBNET_demo\obj\Debug\ControlArraySample.pdb
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\obj\Debug\ControlArraySample.exe
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\obj\Debug\ControlArraySample.xml
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\obj\Debug\ControlArraySample.pdb
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\obj\Debug\junkVB.Main.resources
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\obj\Debug\junkVB.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\bin\ControlArraySample.exe
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\bin\ControlArraySample.pdb
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo\bin\ControlArraySample.xml
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.exe
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.xml
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.pdb
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.exe
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.pdb
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.xml
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\junkVB.Main.resources
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\junkVB.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.exe
+C:\Documents and Settings\Administrator\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.xml
+C:\Documents and Settings\Administrator\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.pdb
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.exe
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.xml
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.pdb
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.exe
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.pdb
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.xml
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\junkVB.Resources.resources
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArray.vbproj.GenerateResource.Cache
+C:\Users\1\Desktop\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\junkVB.Main.resources
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.exe
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.xml
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.pdb
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.exe
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.pdb
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.xml
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\junkVB.Main.resources
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\junkVB.Resources.resources
+C:\Users\1\Desktop\ET\MINE\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArray.vbproj.GenerateResource.Cache
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.exe
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.xml
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArraySample.pdb
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.exe
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.pdb
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\bin\ControlArraySample.xml
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\junkVB.Main.resources
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\junkVB.Resources.resources
+D:\ET\MINE\תיכנות\VB6\MY CLOCK\Copy of Control_Arrays_in_VBNET_demo_master\obj\Debug\ControlArray.vbproj.GenerateResource.Cache

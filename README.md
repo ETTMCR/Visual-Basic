@@ -2,7 +2,7 @@
 Visual Basic scripts and small apps
 worth to mention :
 * shorties - an assist app of list of frequent words to work with, and auto copy to specific word file.
-* The Project - my matriculation VB6 project. Managing pharmacy store, including : drugs, clients, and companies connected MS Access tables.
+* The Project - my matriculation VB6 project. Managing pharmacy store, including : drugs, clients, and companies connected via MS Access tables and SQL queries.
 * save load [PENTAGO](https://he.wikipedia.org/wiki/פנטגו) - A two-player abstract strategy game, made after good experience with a the same phisical board game.
 * newest [Nonogram](https://he.wikipedia.org/wiki/שחור_ופתור)  -  Griddlers logic puzzle editor.
 * Tictic 2D smart - logic game for two (almost made in first shot :-) )
